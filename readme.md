@@ -12,6 +12,8 @@ These notebooks are intended to be simple and fun introductions to basic machine
 * **Loading data and initial inspection**
 * **Train test splits**
 * **Fitting a tree regression model**
+* **Bias/variance trade-off**
+* **Overfitting and underfitting**
 * **What are hyperparameters and how do we set them**
 * **Grid searching and K-fold cross validation**
 
