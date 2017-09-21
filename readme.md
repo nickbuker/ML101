@@ -35,8 +35,5 @@ ML101
 │   ├── ML101_1.ipynb
 │   └── images
 ├── readme.md
-├── requirements.txt
-└── tree.txt
-
-3 directories, 13 files
+└── requirements.txt
 ```
