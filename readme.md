@@ -16,13 +16,14 @@ These notebooks are intended to be simple and fun introductions to basic machine
 * Overfitting and underfitting
 * What are hyperparameters and how do we set them
 * Grid searching and K-fold cross validation
+* **BONUS:** Time-series data
 
 #### To install
 These notebooks are designed to run with Python 2.7. In order to install the requirements, type run following command from the ML101 directory. As always, use of a virtualenv is recommended.
 
 `$ pip install -r requirements.txt`
 
-Once the requirements have been installed, you should be able to launch the notebook by navigating to the notebooks directory and running the command below.
+Once the requirements have been installed, you should be able to launch the notebook by navigating to the notebooks directory and running the command below in the terminal.
 
 `$ jupyter notebook`
 
