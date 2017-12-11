@@ -19,7 +19,7 @@ These notebooks are intended to be simple and fun introductions to basic machine
 * **BONUS:** Time-series data
 
 #### To install
-These notebooks are designed to run with Python 2.7. In order to install the requirements, type run following command from the ML101 directory. As always, use of a virtualenv is recommended.
+These notebooks are designed to run in either Python2 or Python3. In order to install the requirements, type run following command from the ML101 directory. As always, use of a virtualenv is recommended.
 
 `$ pip install -r requirements.txt`
 
